@@ -1,0 +1,106 @@
+@media screen and (max-width: 980px){
+
+	.logo-area{
+		width: 100%;
+		float: none;
+		text-align: center;
+		margin-right: 
+		
+	}
+	.logo-area{
+		width: 405px;
+		margin: 15px auto;
+		float: none;
+	}
+	.logo-area form{
+		float: none;
+	}
+	.left-area{
+		width: 100%;
+		float: none;
+	}
+	.right-area{
+		width: 100%;
+		float: none;
+	}
+	.left-area p{
+		width: 100%;
+	}
+	.login-area input[type="text"]
+	.login-area input[type="password"]{
+	width: 100%;
+	}
+	.gender{
+		width: 100%;
+		float: left;
+		margin-bottom: 0px;
+		overflow: hidden;
+	}
+	.text-box{
+		width: 100%;
+		float: left;
+		overflow: hidden;
+	}
+	.btn{
+		width: 100%;
+		float: left;
+		overflow: hidden;
+
+	}
+	.page{
+		width: 100%;
+		float: left;
+		overflow: hidden;
+	}
+
+	
+}
+@media screen and (max-width: 768px) {
+	.logo-area{
+		width: 100%;
+		float: none;
+	}
+	.login-area .email,
+	.login-area .password,
+	.login-area .login{
+		width: 100%;
+		float: none;
+		margin-right: 0px;
+
+	}
+	.login-area input[type="text"]
+	.login-area input[type="password"] {
+		width: 100%;
+		box-sizing: border-box;
+
+	}
+	.login-area input[type="submit"] {
+		margin-top: 10px;
+	}
+	.gender{
+		float: left;
+		width: 100%;
+		overflow: hidden;
+		margin-bottom: 15px;
+
+	}
+	
+}
+@media screen and (max-width: 480px) {
+	.container{
+		width: 80%;
+	}
+	.brith-data{
+		width: 100%;
+		float: none;
+		
+	}
+	.brith-link{
+		width: 100%;
+		float: none;
+		font-size: 10px;
+		margin-top: 10px;
+		margin-bottom: 10px;
+
+	}
+}
